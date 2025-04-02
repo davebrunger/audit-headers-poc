@@ -106,3 +106,6 @@ builder.Services.AddSwaggerGen(options => {
     options.DocumentFilter<AddAuditHeadersDocumetFilter>();
 });
 ```
+
+## Example Swagger UI
+![Example UI](./Images/SwaggerUI.png)
